@@ -1,0 +1,13 @@
+D:\2 сем\акуля\1 лаба\Игра\Игра\obj\Debug\netcoreapp3.1\Игра.csprojAssemblyReference.cache
+D:\2 сем\акуля\1 лаба\Игра\Игра\obj\Debug\netcoreapp3.1\Игра.AssemblyInfoInputs.cache
+D:\2 сем\акуля\1 лаба\Игра\Игра\obj\Debug\netcoreapp3.1\Игра.AssemblyInfo.cs
+D:\2 сем\акуля\1 лаба\Игра\Игра\obj\Debug\netcoreapp3.1\Игра.csproj.CoreCompileInputs.cache
+D:\2 сем\акуля\1 лаба\Игра\Игра\bin\Debug\netcoreapp3.1\Игра.exe
+D:\2 сем\акуля\1 лаба\Игра\Игра\bin\Debug\netcoreapp3.1\Игра.deps.json
+D:\2 сем\акуля\1 лаба\Игра\Игра\bin\Debug\netcoreapp3.1\Игра.runtimeconfig.json
+D:\2 сем\акуля\1 лаба\Игра\Игра\bin\Debug\netcoreapp3.1\Игра.runtimeconfig.dev.json
+D:\2 сем\акуля\1 лаба\Игра\Игра\bin\Debug\netcoreapp3.1\Игра.dll
+D:\2 сем\акуля\1 лаба\Игра\Игра\bin\Debug\netcoreapp3.1\Игра.pdb
+D:\2 сем\акуля\1 лаба\Игра\Игра\obj\Debug\netcoreapp3.1\Игра.dll
+D:\2 сем\акуля\1 лаба\Игра\Игра\obj\Debug\netcoreapp3.1\Игра.pdb
+D:\2 сем\акуля\1 лаба\Игра\Игра\obj\Debug\netcoreapp3.1\Игра.genruntimeconfig.cache
