@@ -1,0 +1,13 @@
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\bin\Debug\netcoreapp3.1\Задание 2.exe
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\bin\Debug\netcoreapp3.1\Задание 2.deps.json
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\bin\Debug\netcoreapp3.1\Задание 2.runtimeconfig.json
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\bin\Debug\netcoreapp3.1\Задание 2.runtimeconfig.dev.json
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\bin\Debug\netcoreapp3.1\Задание 2.dll
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\bin\Debug\netcoreapp3.1\Задание 2.pdb
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\obj\Debug\netcoreapp3.1\Задание 2.csprojAssemblyReference.cache
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\obj\Debug\netcoreapp3.1\Задание 2.AssemblyInfoInputs.cache
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\obj\Debug\netcoreapp3.1\Задание 2.AssemblyInfo.cs
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\obj\Debug\netcoreapp3.1\Задание 2.csproj.CoreCompileInputs.cache
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\obj\Debug\netcoreapp3.1\Задание 2.dll
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\obj\Debug\netcoreapp3.1\Задание 2.pdb
+D:\2 сем\акуля\2 лаба\Задание 2\Задание 2\obj\Debug\netcoreapp3.1\Задание 2.genruntimeconfig.cache
