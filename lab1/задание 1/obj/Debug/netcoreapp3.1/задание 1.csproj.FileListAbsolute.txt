@@ -1,0 +1,13 @@
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\bin\Debug\netcoreapp3.1\задание 1.exe
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\bin\Debug\netcoreapp3.1\задание 1.deps.json
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\bin\Debug\netcoreapp3.1\задание 1.runtimeconfig.json
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\bin\Debug\netcoreapp3.1\задание 1.runtimeconfig.dev.json
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\bin\Debug\netcoreapp3.1\задание 1.dll
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\bin\Debug\netcoreapp3.1\задание 1.pdb
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\obj\Debug\netcoreapp3.1\задание 1.csprojAssemblyReference.cache
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\obj\Debug\netcoreapp3.1\задание 1.AssemblyInfoInputs.cache
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\obj\Debug\netcoreapp3.1\задание 1.AssemblyInfo.cs
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\obj\Debug\netcoreapp3.1\задание 1.csproj.CoreCompileInputs.cache
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\obj\Debug\netcoreapp3.1\задание 1.dll
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\obj\Debug\netcoreapp3.1\задание 1.pdb
+D:\2 сем\акуля\1 лаба\задание 1\задание 1\obj\Debug\netcoreapp3.1\задание 1.genruntimeconfig.cache
